@@ -245,6 +245,8 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
                     FreeConsole();
                     return 0; 
                 });
+
+            ConsoleIO.detach();
             EndPaint(hWnd, &ps);
         }
         break;
