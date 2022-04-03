@@ -1,0 +1,3 @@
+﻿  WCH.cpp
+E:\MS Visual Studio\repos\Luogu\WCH\WCH\modules\Commands.hpp(85,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  WCH.vcxproj -> E:\MS Visual Studio\repos\Luogu\WCH\x64\Debug\WCH.exe
